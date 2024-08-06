@@ -1,0 +1,16 @@
+2024-08-06 01:30:57: -- 分析开始 Periodic Timer
+2024-08-06 01:30:58: 变更：11， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 17850
+2024-08-06 01:30:58: Left to Right: Copy File: 11 
+2024-08-06 01:30:58: == 同步开始由 Periodic Timer
+2024-08-06 01:30:59: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___20230629_161737.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___20230629_161737.mp4' (17,134,325)
+2024-08-06 01:30:59: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___20230626_193125.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___20230626_193125.mp4' (36,045,370)
+2024-08-06 01:30:59: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___20230629_161013.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___20230629_161013.mp4' (44,883,205)
+2024-08-06 01:31:02: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___20230629_161245.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___20230629_161245.mp4' (158,577,537)
+2024-08-06 01:31:03: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___Thumbs.db' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___Thumbs.db' (91,648)
+2024-08-06 01:31:03: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___20230629_161446.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___20230629_161446.mp4' (217,073,978)
+2024-08-06 01:31:06: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___20230629_162744.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___20230629_162744.mp4' (326,525,610)
+2024-08-06 01:31:09: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___20230629_163003.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___20230629_163003.mp4' (434,278,687)
+2024-08-06 01:31:11: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___20230629_161834.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___20230629_161834.mp4' (514,724,531)
+2024-08-06 01:31:14: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___20230629_162222.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___20230629_162222.mp4' (699,747,899)
+2024-08-06 01:31:15: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___06___20230629_163318.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___06___20230629_163318.mp4' (756,206,793)
+2024-08-06 01:31:15: == 同步完成. 历时: 00:00:19, 速度: 168.54 MB/s, 完成: 11, 错误: 0

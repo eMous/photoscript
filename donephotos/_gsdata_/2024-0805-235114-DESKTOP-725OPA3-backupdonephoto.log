@@ -1,0 +1,7 @@
+2024-08-05 23:51:14: -- 分析开始 Periodic Timer
+2024-08-05 23:51:16: Do Not Propagate Deletions: 1-way deletions reverted: 92
+2024-08-05 23:51:16: 变更：0， 冲突：0， 复制时间：0， 复制状态：21， 错误： 0, All: 26924
+2024-08-05 23:51:16: == 同步开始由 Periodic Timer
+2024-08-05 23:51:16: File Systems limited number of parallel threads to 8
+2024-08-05 23:51:16: Start only 0 threads, limited by tasks to run
+2024-08-05 23:51:17: == 同步完成. 历时: 00:00:03, 速度: 458.75 KB/s, 完成: 21, 错误: 0

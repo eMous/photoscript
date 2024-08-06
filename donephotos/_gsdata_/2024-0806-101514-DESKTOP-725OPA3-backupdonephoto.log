@@ -1,0 +1,10 @@
+2024-08-06 10:15:20: == 同步开始由 User Command
+2024-08-06 10:15:20: File Systems limited number of parallel threads to 8
+2024-08-06 10:15:20: Start only 6 threads, limited by tasks to run
+2024-08-06 10:15:20: 新建复制 'F:/photo_script/donephotos/2023/05/20230529_171611.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2023/05/20230529_171611.jpg' (263,351)
+2024-08-06 10:15:20: 新建复制 'F:/photo_script/donephotos/2023/06/20230601_154222.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2023/06/20230601_154222.jpg' (424,346)
+2024-08-06 10:15:20: 新建复制 'F:/photo_script/donephotos/2023/06/20230629_130715.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2023/06/20230629_130715.jpg' (261,707)
+2024-08-06 10:15:20: 新建复制 'F:/photo_script/donephotos/2023/06/20230601_183804.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2023/06/20230601_183804.jpg' (403,712)
+2024-08-06 10:15:20: 新建复制 'F:/photo_script/donephotos/2023/06/20230629_175657.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2023/06/20230629_175657.jpg' (5,269,405)
+2024-08-06 10:15:20: 新建复制 'F:/photo_script/donephotos/2023/06/20230629_130716.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2023/06/20230629_130716.jpg' (5,906,933)
+2024-08-06 10:15:21: == 同步完成. 历时: 00:00:01, 速度: 0.00/s, 完成: 6, 错误: 0

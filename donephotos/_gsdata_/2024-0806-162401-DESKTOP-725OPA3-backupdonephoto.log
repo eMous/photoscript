@@ -1,0 +1,5 @@
+2024-08-06 16:24:06: == 同步开始由 User Command
+2024-08-06 16:24:06: File Systems limited number of parallel threads to 8
+2024-08-06 16:24:06: Start only 1 threads, limited by tasks to run
+2024-08-06 16:24:06: 覆盖复制 'F:/photo_script/donephotos/2021/10/20211023_235959.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/10/20211023_235959.jpg' (308,086)
+2024-08-06 16:24:07: == 同步完成. 历时: 00:00:01, 速度: 0.00/s, 完成: 1, 错误: 0

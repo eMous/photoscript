@@ -1,0 +1,36 @@
+2024-08-05 22:49:03: -- 分析开始 Periodic Timer
+2024-08-05 22:49:06: Do Not Propagate Deletions: 1-way deletions reverted: 92
+2024-08-05 22:49:06: 变更：28， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 25159
+2024-08-05 22:49:06: Left to Right: Copy File: 28 
+2024-08-05 22:49:06: == 同步开始由 Periodic Timer
+2024-08-05 22:49:06: File Systems limited number of parallel threads to 8
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220113_192631.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220113_192631.jpg' (563,310)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220114_110632.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220114_110632.jpg' (391,778)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220114_123533.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220114_123533.jpg' (203,667)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220114_123934.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220114_123934.jpg' (203,568)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220114_123545.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220114_123545.jpg' (408,927)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220114_155325.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220114_155325.jpg' (59,315)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220114_155416.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220114_155416.jpg' (32,710)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220114_141756.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220114_141756.jpg' (529,421)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220114_155044.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220114_155044.jpg' (687,491)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220115_165059.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220115_165059.jpg' (376,503)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220117_130314.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220117_130314.jpg' (568,663)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220118_220129.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220118_220129.jpg' (584,454)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220118_220136.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220118_220136.jpg' (388,320)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220118_220141.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220118_220141.jpg' (407,284)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220118_222213.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220118_222213.jpg' (350,141)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220118_222656.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220118_222656.jpg' (653,783)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220118_222951.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220118_222951.jpg' (362,676)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220118_223323.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220118_223323.jpg' (282,277)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220118_232308.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220118_232308.jpg' (533,153)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220119_121834.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220119_121834.jpg' (486,102)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220119_211326.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220119_211326.jpg' (454,666)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220120_130021.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220120_130021.jpg' (518,125)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220122_231720.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220122_231720.jpg' (253,902)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220121_155016.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220121_155016.jpg' (430,582)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220124_151636.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220124_151636.jpg' (196,403)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220122_140913.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220122_140913.jpg' (465,239)
+2024-08-05 22:49:06: F:/photo_script/donephotos/2024/08/20240805_222531.jpg: Source file has changed between Analyze and Sync from '[file] size=177,303 accu-time=2024-08-05 22:49:03 attr=Archive cktype=0' to 'size=281,656 time=2024-08-05 22:49:05', noted in source file state
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2024/08/20240805_222531.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2024/08/20240805_222531.jpg' (177,303)
+2024-08-05 22:49:06: 新建复制 'F:/photo_script/donephotos/2022/01/20220124_185836.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/01/20220124_185836.jpg' (7,079,443)
+2024-08-05 22:49:07: == 同步完成. 历时: 00:00:04, 速度: 5.90 MB/s, 完成: 28, 错误: 0

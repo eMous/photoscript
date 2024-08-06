@@ -1,0 +1,14 @@
+2024-08-05 22:13:47: -- 分析开始 Periodic Timer
+2024-08-05 22:13:51: 变更：7， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 24421
+2024-08-05 22:13:51: Left to Right: Copy File: 7 
+2024-08-05 22:13:51: == 同步开始由 Periodic Timer
+2024-08-05 22:13:51: File Systems limited number of parallel threads to 8
+2024-08-05 22:13:51: Start only 7 threads, limited by tasks to run
+2024-08-05 22:13:51: 覆盖复制 'F:/photo_script/donephotos/2017/04/20170414_133418.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170414_133418.jpg' (141,324)
+2024-08-05 22:13:51: 覆盖复制 'F:/photo_script/donephotos/2017/04/20170418_170623.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170418_170623.jpg' (112,559)
+2024-08-05 22:13:51: 覆盖复制 'F:/photo_script/donephotos/2017/04/20170417_141404.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170417_141404.jpg' (372,884)
+2024-08-05 22:13:51: 覆盖复制 'F:/photo_script/donephotos/2017/04/20170424_123821.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170424_123821.jpg' (225,271)
+2024-08-05 22:13:51: 覆盖复制 'F:/photo_script/donephotos/2017/06/20170613_014033.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/06/20170613_014033.jpg' (22,471)
+2024-08-05 22:13:51: 覆盖复制 'F:/photo_script/donephotos/2017/06/20170613_014122.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/06/20170613_014122.jpg' (36,266)
+2024-08-05 22:13:51: 覆盖复制 'F:/photo_script/donephotos/2017/04/20170425_004833.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170425_004833.jpg' (406,486)
+2024-08-05 22:13:52: == 同步完成. 历时: 00:00:05, 速度: 347.40 KB/s, 完成: 7, 错误: 0

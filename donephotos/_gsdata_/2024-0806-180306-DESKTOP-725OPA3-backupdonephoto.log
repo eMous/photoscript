@@ -1,0 +1,9 @@
+2024-08-06 18:03:07: -- 分析开始 Periodic Timer
+2024-08-06 18:03:10: Do Not Propagate Deletions: 1-way deletions reverted: 19715
+2024-08-06 18:03:10: 变更：1， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 43488
+2024-08-06 18:03:10: Left to Right: Copy File: 1 
+2024-08-06 18:03:10: == 同步开始由 Periodic Timer
+2024-08-06 18:03:10: File Systems limited number of parallel threads to 8
+2024-08-06 18:03:10: Start only 1 threads, limited by tasks to run
+2024-08-06 18:03:10: 新建复制 'F:/photo_script/donephotos/2022/06/20220617_111325.mov' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2022/06/20220617_111325.mov' (2,894,155)
+2024-08-06 18:03:11: == 同步完成. 历时: 00:00:05, 速度: 578.83 KB/s, 完成: 1, 错误: 0

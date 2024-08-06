@@ -1,0 +1,18 @@
+2024-08-05 23:06:00: -- 分析开始 Periodic Timer
+2024-08-05 23:06:02: Do Not Propagate Deletions: 1-way deletions reverted: 92
+2024-08-05 23:06:02: 变更：11， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 25191
+2024-08-05 23:06:02: Left to Right: Copy File: 11 
+2024-08-05 23:06:02: == 同步开始由 Periodic Timer
+2024-08-05 23:06:02: File Systems limited number of parallel threads to 8
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/2014/02/20140201_083909.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2014/02/20140201_083909.jpg' (24,431)
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/2021/01/20210109_120130.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/01/20210109_120130.jpg' (52,910)
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/2021/01/20210112_112242.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/01/20210112_112242.jpg' (622,555)
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/2021/01/20210112_105924.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/01/20210112_105924.jpg' (400,263)
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/20240805_222553.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/20240805_222553.jpg' (36,906)
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/2021/01/20210112_235940.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/01/20210112_235940.jpg' (355,630)
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/2021/01/20210112_235937.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/01/20210112_235937.jpg' (691,669)
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/20240805_222552.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/20240805_222552.jpg' (57,670)
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/2021/01/20210110_182115.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/01/20210110_182115.jpg' (2,558,979)
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/2021/01/20210112_235933.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/01/20210112_235933.jpg' (907,417)
+2024-08-05 23:06:03: 新建复制 'F:/photo_script/donephotos/20240805_222554.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/20240805_222554.jpg' (24,504)
+2024-08-05 23:06:03: == 同步完成. 历时: 00:00:03, 速度: 1.95 MB/s, 完成: 11, 错误: 0

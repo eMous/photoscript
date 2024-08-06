@@ -1,0 +1,16 @@
+2024-08-06 13:07:23: -- 分析开始 Periodic Timer
+2024-08-06 13:07:26: Do Not Propagate Deletions: 1-way deletions reverted: 9180
+2024-08-06 13:07:26: 变更：9， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 40823
+2024-08-06 13:07:26: Left to Right: Copy File: 9 
+2024-08-06 13:07:26: == 同步开始由 Periodic Timer
+2024-08-06 13:07:26: File Systems limited number of parallel threads to 8
+2024-08-06 13:07:27: 新建复制 'F:/photo_script/donephotos/2017/04/20170401_192244.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170401_192244.jpg' (1,212,175)
+2024-08-06 13:07:27: 新建复制 'F:/photo_script/donephotos/2017/04/20170402_205250.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170402_205250.jpg' (990,896)
+2024-08-06 13:07:27: 新建复制 'F:/photo_script/donephotos/2017/04/20170401_215658.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170401_215658.jpg' (1,440,824)
+2024-08-06 13:07:27: 新建复制 'F:/photo_script/donephotos/2017/04/20170403_165626.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170403_165626.jpg' (943,265)
+2024-08-06 13:07:27: 新建复制 'F:/photo_script/donephotos/2017/04/20170403_125947.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170403_125947.jpg' (1,302,201)
+2024-08-06 13:07:27: 新建复制 'F:/photo_script/donephotos/2017/04/20170404_122218.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170404_122218.jpg' (1,034,668)
+2024-08-06 13:07:27: 新建复制 'F:/photo_script/donephotos/2017/04/20170404_171231.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170404_171231.jpg' (1,052,805)
+2024-08-06 13:07:27: 新建复制 'F:/photo_script/donephotos/2017/04/20170403_172004.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170403_172004.jpg' (4,030,069)
+2024-08-06 13:07:27: 新建复制 'F:/photo_script/donephotos/2017/04/20170403_172014.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/04/20170403_172014.jpg' (4,736,346)
+2024-08-06 13:07:28: == 同步完成. 历时: 00:00:05, 速度: 4.19 MB/s, 完成: 9, 错误: 0

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaProfile xmlns="http://xmlns.sony.net/pro/metadata/mediaprofile" createdAt="2022-07-14T11:19:03+08:00" version="2.10">
+	<Properties>
+		<System systemId="747A90FFFE93E8AB" systemKind="ILCE-7M3" masterVersion="XAVC-M4@1.10.00"/>
+		<Attached mediaId="CE89945E739705CDE8AB747A90FFFE93" mediaKind="AffordableMemoryCard" mediaName=""/>
+	</Properties>
+	<Contents>
+		<Material uri="./CLIP/C0001.MP4" type="MP4" videoType="AVC_1920_1080_HP@L42" audioType="LPCM16" fps="59.94p" dur="1980" ch="2" aspectRatio="16:9" offset="0" umid="060A2B340101010501010D43130000006AF8EBDD739705C0747A90FFFE93E8AB">
+			<RelevantInfo uri="./CLIP/C0001M01.XML" type="XML"/>
+			<RelevantInfo uri="./THMBNL/C0001T01.JPG" type="JPG"/>
+		</Material>
+		<Material uri="./CLIP/C0002.MP4" type="MP4" videoType="AVC_1920_1080_HP@L42" audioType="LPCM16" fps="59.94p" dur="2460" ch="2" aspectRatio="16:9" offset="0" umid="060A2B340101010501010D4313000000B0FB72E0739705D3747A90FFFE93E8AB">
+			<RelevantInfo uri="./CLIP/C0002M01.XML" type="XML"/>
+			<RelevantInfo uri="./THMBNL/C0002T01.JPG" type="JPG"/>
+		</Material>
+		<Material uri="./CLIP/C0003.MP4" type="MP4" videoType="AVC_1920_1080_HP@L42" audioType="LPCM16" fps="59.94p" dur="630" ch="2" aspectRatio="16:9" offset="0" umid="060A2B340101010501010D43130000008AD89C78749705DC747A90FFFE93E8AB">
+			<RelevantInfo uri="./CLIP/C0003M01.XML" type="XML"/>
+			<RelevantInfo uri="./THMBNL/C0003T01.JPG" type="JPG"/>
+		</Material>
+		<Material uri="./CLIP/C0004.MP4" type="MP4" videoType="AVC_1920_1080_HP@L42" audioType="LPCM16" fps="59.94p" dur="600" ch="2" aspectRatio="16:9" offset="0" umid="060A2B340101010501010D431300000008CFAF78749705CE747A90FFFE93E8AB">
+			<RelevantInfo uri="./CLIP/C0004M01.XML" type="XML"/>
+			<RelevantInfo uri="./THMBNL/C0004T01.JPG" type="JPG"/>
+		</Material>
+	</Contents>
+</MediaProfile>

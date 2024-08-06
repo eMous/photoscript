@@ -1,0 +1,8 @@
+2024-08-06 10:16:44: -- 分析开始 Periodic Timer
+2024-08-06 10:16:46: 变更：2， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 17882
+2024-08-06 10:16:46: Left to Right: Copy File: 2 
+2024-08-06 10:16:46: == 同步开始由 Periodic Timer
+2024-08-06 10:16:46: Start only 2 threads, limited by tasks to run
+2024-08-06 10:16:46: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___09___mmexport896a85665a011e3f2d0b02613c931f5e_1693924109481.webp' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___09___mmexport896a85665a011e3f2d0b02613c931f5e_1693924109481.webp' (18,184)
+2024-08-06 10:16:46: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___09___mmexport09ed6157ee67875654d671d900f53771_1693924070762.webp' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___09___mmexport09ed6157ee67875654d671d900f53771_1693924070762.webp' (75,466)
+2024-08-06 10:16:46: == 同步完成. 历时: 00:00:02, 速度: 0.00/s, 完成: 2, 错误: 0

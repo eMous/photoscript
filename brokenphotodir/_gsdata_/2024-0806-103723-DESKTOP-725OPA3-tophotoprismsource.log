@@ -1,0 +1,15 @@
+2024-08-06 10:37:23: -- 分析开始 Periodic Timer
+2024-08-06 10:37:24: Do Not Propagate Deletions: 1-way deletions reverted: 15
+2024-08-06 10:37:25: 变更：9， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 17963
+2024-08-06 10:37:25: Left to Right: Copy File: 9 
+2024-08-06 10:37:25: == 同步开始由 Periodic Timer
+2024-08-06 10:37:25: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___12___20231215_202128.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___12___20231215_202128.mp4' (17,980,793)
+2024-08-06 10:37:25: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___12___20231215_203321.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___12___20231215_203321.mp4' (18,568,227)
+2024-08-06 10:37:26: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___12___Thumbs.db' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___12___Thumbs.db' (3,540,992)
+2024-08-06 10:37:26: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___12___20231204_134900.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___12___20231204_134900.mp4' (45,498,181)
+2024-08-06 10:37:26: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___12___20231222_190155.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___12___20231222_190155.mp4' (41,472,818)
+2024-08-06 10:37:26: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___12___20231222_190349.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___12___20231222_190349.mp4' (36,481,750)
+2024-08-06 10:37:26: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___12___20231215_202315.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___12___20231215_202315.mp4' (98,438,107)
+2024-08-06 10:37:27: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___12___20231204_134959.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___12___20231204_134959.mp4' (172,070,449)
+2024-08-06 10:37:30: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___12___20231204_135133.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___12___20231204_135133.mp4' (507,740,225)
+2024-08-06 10:37:30: == 同步完成. 历时: 00:00:07, 速度: 134.54 MB/s, 完成: 9, 错误: 0

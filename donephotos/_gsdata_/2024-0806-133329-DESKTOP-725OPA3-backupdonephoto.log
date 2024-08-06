@@ -1,0 +1,14 @@
+2024-08-06 13:33:29: -- 分析开始 Periodic Timer
+2024-08-06 13:33:33: Do Not Propagate Deletions: 1-way deletions reverted: 10145
+2024-08-06 13:33:33: /2017/07/20170704_103843.jpg: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2024-08-06 13:33:33: /2017/11/20171102_101228.jpg: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2024-08-06 13:33:33: 变更：4， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 40943
+2024-08-06 13:33:33: Left to Right: Copy File: 4 
+2024-08-06 13:33:33: == 同步开始由 Periodic Timer
+2024-08-06 13:33:33: File Systems limited number of parallel threads to 8
+2024-08-06 13:33:33: Start only 4 threads, limited by tasks to run
+2024-08-06 13:33:33: 新建复制 'F:/photo_script/donephotos/2024/08/20240806_132755.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2024/08/20240806_132755.jpg' (126,982)
+2024-08-06 13:33:33: 新建复制 'F:/photo_script/donephotos/2024/08/20240806_132755.png' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2024/08/20240806_132755.png' (364,191)
+2024-08-06 13:33:33: 覆盖复制 'F:/photo_script/donephotos/2017/11/20171102_101228.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/11/20171102_101228.jpg' (1,937,308)
+2024-08-06 13:33:33: 覆盖复制 'F:/photo_script/donephotos/2017/07/20170704_103843.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2017/07/20170704_103843.jpg' (4,731,915)
+2024-08-06 13:33:34: == 同步完成. 历时: 00:00:05, 速度: 1.79 MB/s, 完成: 4, 错误: 0

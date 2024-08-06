@@ -1,0 +1,11 @@
+2024-08-06 10:41:49: -- 分析开始 Periodic Timer
+2024-08-06 10:41:50: Do Not Propagate Deletions: 1-way deletions reverted: 16
+2024-08-06 10:41:51: 变更：4， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 17967
+2024-08-06 10:41:51: Left to Right: Copy File: 4 
+2024-08-06 10:41:51: == 同步开始由 Periodic Timer
+2024-08-06 10:41:51: Start only 4 threads, limited by tasks to run
+2024-08-06 10:41:51: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2024___01___Thumbs.db' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2024___01___Thumbs.db' (100,864)
+2024-08-06 10:41:51: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2024___02___24-02-23 07-34-01 0134.png' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2024___02___24-02-23 07-34-01 0134.png' (485,404)
+2024-08-06 10:41:51: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2024___02___24-02-24 14-27-41 0135.png' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2024___02___24-02-24 14-27-41 0135.png' (993,048)
+2024-08-06 10:41:51: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2024___01___20240108_194944.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2024___01___20240108_194944.mp4' (36,546,066)
+2024-08-06 10:41:52: == 同步完成. 历时: 00:00:03, 速度: 0.00/s, 完成: 4, 错误: 0

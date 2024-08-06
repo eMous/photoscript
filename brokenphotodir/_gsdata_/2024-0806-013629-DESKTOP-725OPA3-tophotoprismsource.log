@@ -1,0 +1,12 @@
+2024-08-06 01:36:29: -- 分析开始 Periodic Timer
+2024-08-06 01:36:31: 变更：6， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 17865
+2024-08-06 01:36:31: Left to Right: Copy File: 6 
+2024-08-06 01:36:31: == 同步开始由 Periodic Timer
+2024-08-06 01:36:31: Start only 6 threads, limited by tasks to run
+2024-08-06 01:36:31: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___08___2023_08_19_20_33_IMG_4667.MOV' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___08___2023_08_19_20_33_IMG_4667.MOV' (7,982,460)
+2024-08-06 01:36:31: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___08___2023_08_20_10_51_IMG_4707.MOV' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___08___2023_08_20_10_51_IMG_4707.MOV' (6,105,282)
+2024-08-06 01:36:31: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___08___2023_08_20_10_55_IMG_4710.MOV' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___08___2023_08_20_10_55_IMG_4710.MOV' (7,654,327)
+2024-08-06 01:36:31: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___08___2023_08_20_10_51_IMG_4706.MOV' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___08___2023_08_20_10_51_IMG_4706.MOV' (8,479,357)
+2024-08-06 01:36:32: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___08___2023_08_20_15_38_IMG_4740.MOV' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___08___2023_08_20_15_38_IMG_4740.MOV' (10,043,630)
+2024-08-06 01:36:32: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___08___2023_08_20_10_56_IMG_4711.MOV' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___08___2023_08_20_10_56_IMG_4711.MOV' (11,795,969)
+2024-08-06 01:36:32: == 同步完成. 历时: 00:00:03, 速度: 0.00/s, 完成: 6, 错误: 0

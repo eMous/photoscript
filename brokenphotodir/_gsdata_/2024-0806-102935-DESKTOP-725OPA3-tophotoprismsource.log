@@ -1,0 +1,10 @@
+2024-08-06 10:29:35: -- 分析开始 Periodic Timer
+2024-08-06 10:29:37: 变更：4， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 17941
+2024-08-06 10:29:37: Left to Right: Copy File: 4 
+2024-08-06 10:29:37: == 同步开始由 Periodic Timer
+2024-08-06 10:29:37: Start only 4 threads, limited by tasks to run
+2024-08-06 10:29:38: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___10___wx_camera_1697023707989.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___10___wx_camera_1697023707989.mp4' (732,183)
+2024-08-06 10:29:38: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___11___23-11-03 00-26-35 0131.png' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___11___23-11-03 00-26-35 0131.png' (383,109)
+2024-08-06 10:29:38: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___11___23-11-02 16-43-59 0130.png' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___11___23-11-02 16-43-59 0130.png' (1,144,043)
+2024-08-06 10:29:38: 新建复制 'F:/photo_script/brokenphotodir/other_filetype/2023___10___组装架子.mp4' -> 'smbd://172.16.66.192/photo/tom/brokenphotodir/other_filetype/2023___10___组装架子.mp4' (5,925,445)
+2024-08-06 10:29:38: == 同步完成. 历时: 00:00:03, 速度: 0.00/s, 完成: 4, 错误: 0

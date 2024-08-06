@@ -1,0 +1,12 @@
+2024-08-06 12:28:16: -- 分析开始 Periodic Timer
+2024-08-06 12:28:18: Do Not Propagate Deletions: 1-way deletions reverted: 8122
+2024-08-06 12:28:18: 变更：4， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 39334
+2024-08-06 12:28:18: Left to Right: Copy File: 4 
+2024-08-06 12:28:18: == 同步开始由 Periodic Timer
+2024-08-06 12:28:19: File Systems limited number of parallel threads to 8
+2024-08-06 12:28:19: Start only 4 threads, limited by tasks to run
+2024-08-06 12:28:19: 新建复制 'F:/photo_script/donephotos/2021/08/20210808_200157.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/08/20210808_200157.jpg' (129,430)
+2024-08-06 12:28:19: 新建复制 'F:/photo_script/donephotos/2021/08/20210808_195735.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/08/20210808_195735.jpg' (170,411)
+2024-08-06 12:28:19: 新建复制 'F:/photo_script/donephotos/2021/08/20210808_200205.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/08/20210808_200205.jpg' (143,099)
+2024-08-06 12:28:19: 新建复制 'F:/photo_script/donephotos/2021/08/20210810_112827.jpg' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2021/08/20210810_112827.jpg' (373,360)
+2024-08-06 12:28:20: == 同步完成. 历时: 00:00:05, 速度: 13.10 KB/s, 完成: 4, 错误: 0

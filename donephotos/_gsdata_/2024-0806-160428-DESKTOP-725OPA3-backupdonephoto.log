@@ -1,0 +1,14 @@
+2024-08-06 16:04:28: -- 分析开始 Periodic Timer
+2024-08-06 16:04:32: Do Not Propagate Deletions: 1-way deletions reverted: 11725
+2024-08-06 16:04:32: 变更：5， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 43235
+2024-08-06 16:04:32: Left to Right: Copy File: 5 
+2024-08-06 16:04:32: == 同步开始由 Periodic Timer
+2024-08-06 16:04:32: File Systems limited number of parallel threads to 8
+2024-08-06 16:04:32: Start only 5 threads, limited by tasks to run
+2024-08-06 16:04:33: 新建复制 'F:/photo_script/donephotos/2020/04/20200415_141846.png' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2020/04/20200415_141846.png' (3,764,967)
+2024-08-06 16:04:33: 新建复制 'F:/photo_script/donephotos/2024/08/20240806_160241.png' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2024/08/20240806_160241.png' (796,895)
+2024-08-06 16:04:33: 新建复制 'F:/photo_script/donephotos/2020/09/20200920_190157.png' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2020/09/20200920_190157.png' (6,347,637)
+2024-08-06 16:04:33: F:/photo_script/donephotos/2024/08/20240806_160242.png: Source file has changed between Analyze and Sync from '[file] size=3,617,807 accu-time=2024-08-06 16:04:28 attr=Archive cktype=0' to 'size=4,809,950 time=2024-08-06 16:04:30', noted in source file state
+2024-08-06 16:04:33: 新建复制 'F:/photo_script/donephotos/2024/08/20240806_160242.png' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2024/08/20240806_160242.png' (3,617,807)
+2024-08-06 16:04:33: 新建复制 'F:/photo_script/donephotos/2020/10/20201001_112406.png' -> 'smbd://172.16.66.192/photo/tom/lib/cal/2020/10/20201001_112406.png' (9,189,476)
+2024-08-06 16:04:34: == 同步完成. 历时: 00:00:06, 速度: 4.74 MB/s, 完成: 5, 错误: 0
