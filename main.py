@@ -202,20 +202,29 @@ def moveInCalDir(abp_file, todir):
         os.makedirs(newdir)
 
     newfile = os.path.join(newdir, "".join(filename_l))
-    os.replace(f, newfile)
+
     # os.replace(f, newfile)
-    # while True:
-    #     if (not os.path.exists(newfile)):
-    #         os.replace(f, newfile)
-    #         break
-    #     else:
-    #         basename_noext, ext = os.path.splitext(os.path.basename(newfile))
-    #         dt = datetime.strptime(basename_noext, "%Y%m%d_%H%M%S")
-    #         dt += timedelta(seconds=1)
-    #         dt_str = dt.strftime("%Y%m%d_%H%M%S")
-    #         newfile = os.path.join(
-    #             os.path.dirname(newfile), dt_str+ext)
-    #     file = newfile
+    # os.replace(f, newfile)
+    while True:
+        basename_noext, ext = os.path.splitext(os.path.basename(newfile))
+        dt = datetime.strptime(basename_noext, "%Y%m%d_%H%M%S")
+        dt_now = datetime.now()
+
+        if (not os.path.exists(newfile)):
+            os.rename(f, newfile)
+            print("final name is " + newfile+"   !!!!!!!!!!!!")
+            break
+        elif abs((dt_now - dt).total_seconds()) > 3600:
+            os.remove(f)
+            print("Try to rename a past and exist file, skip it")
+            return
+        else:
+            basename_noext, ext = os.path.splitext(os.path.basename(newfile))
+            dt = datetime.strptime(basename_noext, "%Y%m%d_%H%M%S")
+            dt += timedelta(seconds=1)
+            dt_str = dt.strftime("%Y%m%d_%H%M%S")
+            newfile = os.path.join(
+                os.path.dirname(newfile), dt_str+ext)
 
 
 def absoluteFilePaths(directory):
